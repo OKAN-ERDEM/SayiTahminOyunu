@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Gazi.KazanMYO.OkanErdem.SayıBulmaOyunu\Gazi.KazanMYO.OkanErdem.SayıBulmaOyunu\obj\Debug\Gazi.KazanMYO.OkanErdem.SayıBulmaOyunu.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Gazi.KazanMYO.OkanErdem.SayıBulmaOyunu\Gazi.KazanMYO.OkanErdem.SayıBulmaOyunu\obj\Debug\Gazi.KazanMYO.OkanErdem.SayıBulmaOyunu.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Gazi.KazanMYO.OkanErdem.SayıBulmaOyunu\Gazi.KazanMYO.OkanErdem.SayıBulmaOyunu\bin\Debug\Gazi.KazanMYO.OkanErdem.SayıBulmaOyunu.exe.config
+C:\Users\HP\source\repos\Gazi.KazanMYO.OkanErdem.SayıBulmaOyunu\Gazi.KazanMYO.OkanErdem.SayıBulmaOyunu\bin\Debug\Gazi.KazanMYO.OkanErdem.SayıBulmaOyunu.exe
+C:\Users\HP\source\repos\Gazi.KazanMYO.OkanErdem.SayıBulmaOyunu\Gazi.KazanMYO.OkanErdem.SayıBulmaOyunu\bin\Debug\Gazi.KazanMYO.OkanErdem.SayıBulmaOyunu.pdb
+C:\Users\HP\source\repos\Gazi.KazanMYO.OkanErdem.SayıBulmaOyunu\Gazi.KazanMYO.OkanErdem.SayıBulmaOyunu\obj\Debug\Gazi.KazanMYO.OkanErdem.SayıBulmaOyunu.exe
+C:\Users\HP\source\repos\Gazi.KazanMYO.OkanErdem.SayıBulmaOyunu\Gazi.KazanMYO.OkanErdem.SayıBulmaOyunu\obj\Debug\Gazi.KazanMYO.OkanErdem.SayıBulmaOyunu.pdb
